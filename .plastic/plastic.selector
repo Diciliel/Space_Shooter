@@ -1,0 +1,4 @@
+repository "Space Shooter@Diciliel@cloud"
+  path "/"
+    br "/main"
+    co "/main"
